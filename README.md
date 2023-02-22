@@ -7,3 +7,5 @@ Projekt, mit dem Github ausprobiert werden soll.
 [X] Task 2 / Issue bearbeiten
 
 [ ] Task 3 / Issue schliessen
+
+[ ] Task 4 / neues Issue anlegen
