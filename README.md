@@ -1,5 +1,5 @@
 # testprojekt
-Projekt, mit dem Github ausprobiert werden soll.
+Projekt, mit dem Github ausprobiert werden soll. Und nur das
 
 ## To-do's:
 [x] Task 1 / Issue eröffnen
